@@ -2,12 +2,12 @@
 A collection of my most commonly used CSS classes and styles
 
 ## Use via CDN
-```
+```markup
 <link rel="stylesheet" href="https://ianfamero.github.io/tars-css/css/tars.css">
 ```
 
 ## Sample HTML Usage
-```
+```markup
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +22,7 @@ A collection of my most commonly used CSS classes and styles
 <body>
   <div class="tars-wrapper">
     <div class="tars-row">
-      <div class="sp-col-12">
+      <div class="sp-col-12"></div>
         This DIV will have 100% width in all viewport
       </div>
     </div>
