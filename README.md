@@ -1,5 +1,5 @@
 # TARS CSS
-A collection of my most commonly used CSS classes and styles
+A collection of my most commonly used CSS styles
 
 ## Use via CDN
 ```markup
