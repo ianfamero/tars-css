@@ -1,12 +1,13 @@
-# TARS CSS
+# Tars CSS
+
 A collection of my most commonly used CSS styles
 
-## Use via CDN
-```markup
-<link rel="stylesheet" href="https://ianfamero.github.io/tars-css/css/tars.css">
-```
+### Note: This project is no longer maintained. Though this might still work, I do not advice using this in new projects except for testing purposes.
 
-## Sample HTML Usage
+## Getting Started
+
+### Sample HTML Usage
+
 ```markup
 <!DOCTYPE html>
 <html lang="en">
@@ -22,7 +23,7 @@ A collection of my most commonly used CSS styles
 <body>
   <div class="tars-wrapper">
     <div class="tars-row">
-      <div class="sp-col-12"></div>
+      <div class="sp-col-12">
         This DIV will have 100% width in all viewport
       </div>
     </div>
@@ -32,3 +33,7 @@ A collection of my most commonly used CSS styles
 </body>
 </html>
 ```
+
+## License
+
+This project is licensed under the GNU General Public License.
